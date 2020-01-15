@@ -1,0 +1,60 @@
+header
+{
+    margin-left: 75%;
+    margin-bottom: 7%;
+    padding-top: 1%;
+}
+.icon
+{
+    width: 18px;
+    height: 18px;
+}
+
+#search
+{
+    padding-left: 2%;
+    padding: 1%;
+    margin-top: 1.5%!important;
+    width: 50%;
+    height: 30%;
+    border-radius: 50px;
+    border-width: thin;
+    box-shadow: none;
+    border-style: ridge;
+    border-color: lightgray;
+}
+#button
+{
+    margin-left: 36%;
+}
+span
+{
+    color: gray;
+    font-family: Arial, sans-serif;
+    font-size: medium;
+}
+.span
+{
+    color: black;
+    font-size: small;
+}
+.mada
+{
+    color: gray;
+    margin-left: 2%;
+}
+footer
+{
+    background-color: ghostwhite;
+    margin-top: 5%;
+
+}
+.a123
+{
+    margin-left: 3%;
+    margin-right: 30%;
+}
+.lien
+{
+    color: gray;
+}
